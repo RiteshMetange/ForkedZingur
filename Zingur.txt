@@ -1,3 +1,2 @@
- have just made a changes in my fork-project
-new changes by the orginal author 
-
+have just made a changes in my fork-project
+changes by ritesh metange
